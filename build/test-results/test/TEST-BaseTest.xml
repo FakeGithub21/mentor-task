@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BaseTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2020-07-11T19:31:09" hostname="DESKTOP-LE73FKF" time="0.175">
+  <properties/>
+  <testcase name="testThrow10" classname="BaseTest" time="0.013"/>
+  <testcase name="testThrow11" classname="BaseTest" time="0.001"/>
+  <testcase name="testThrow12" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow13" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow14" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow15" classname="BaseTest" time="0.0"/>
+  <testcase name="randomArabicTest" classname="BaseTest" time="0.147"/>
+  <testcase name="test1" classname="BaseTest" time="0.0"/>
+  <testcase name="test2" classname="BaseTest" time="0.0"/>
+  <testcase name="test3" classname="BaseTest" time="0.0"/>
+  <testcase name="test4" classname="BaseTest" time="0.001"/>
+  <testcase name="test5" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow1" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow2" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow3" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow4" classname="BaseTest" time="0.001"/>
+  <testcase name="testThrow5" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow6" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow7" classname="BaseTest" time="0.0"/>
+  <testcase name="testThrow8" classname="BaseTest" time="0.001"/>
+  <testcase name="testThrow9" classname="BaseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
